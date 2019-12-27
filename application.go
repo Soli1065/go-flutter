@@ -8,7 +8,7 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/go-gl/glfw/v3.2/glfw"
+	"github.com/go-gl/glfw/v3.3/glfw"
 	"github.com/pkg/errors"
 
 	"github.com/go-flutter-desktop/go-flutter/embedder"
